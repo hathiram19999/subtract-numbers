@@ -1,1 +1,1 @@
-# subtract-numbers
+# Program to subtract two numbers.
